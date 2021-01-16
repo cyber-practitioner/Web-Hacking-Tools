@@ -6,13 +6,15 @@ This tool is used to find xss and sql injection points in a given url generated 
 <p> Syntax:
   
 mono GET_Request_Fuzzer.exe '(the url)'
+
 </p>
-<p> Classes used 
+
+ Classes used 
   System
   System.IO
   System.Net(HttpWebRequest)
   
-</p>
+
 
 **This DOES NOT work on URL prefaced with ftp:// or file:// you will require a different library (FtpWebRequest or FileWebRequest)**
   
