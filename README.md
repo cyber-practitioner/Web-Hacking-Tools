@@ -10,9 +10,9 @@ mono GET_Request_Fuzzer.exe '(the url)'
 </p>
 
  Classes used 
-  1.System
-  2.System.IO
-  3.System.Net(HttpWebRequest)
+  1. System
+  2. System.IO
+  3. System.Net(HttpWebRequest)
   
 
 
