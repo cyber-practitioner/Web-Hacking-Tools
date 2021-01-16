@@ -13,5 +13,6 @@ mono GET_Request_Fuzzer.exe '(the url)'
   System.Net(HttpWebRequest)
   
 </p>
-This **DOES NOT** work on URL prefaced with ftp:// or file:// you will require a different library (FtpWebRequest or FileWebRequest)
+
+**This DOES NOT work on URL prefaced with ftp:// or file:// you will require a different library (FtpWebRequest or FileWebRequest)
   
