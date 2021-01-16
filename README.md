@@ -1,6 +1,6 @@
 # Web-Hacking-Tools
 Tool made in C# using mcs and mono
-[Visit Website](https://installlion.com/kali/kali/main/m/mono-mcs/install/index.html)
+[Visit Website](https://installlion.com/kali/kali/main/m/mono-mcs/install/index.html) to know more about mcs and mono
 
 This tool is used to find xss and sql injection points in a given url generated from a GET request
 <p> Syntax:
