@@ -1,4 +1,4 @@
-# Web-Hacking-Tools
+# Web-Hacking-Tool
 Tool made in C# using mcs and mono
 [Visit Website](https://installlion.com/kali/kali/main/m/mono-mcs/install/index.html) to know more about mcs and mono
 
